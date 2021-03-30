@@ -105,3 +105,35 @@ Things Kerber Hates:
  - The word "indices".
  - Sudoku after playing Mass Effect: Andromeda.
  - Alcohol.
+ - Curly hair
+ - Public transport
+ - To think about how a fictional universe works
+ - Green tea
+ - Rain
+ - Possibly 95% of all the porn on Earth
+ - Delphi.
+ - Breast physics
+ - Dark Brotherhood
+ - When multiple variables are declared in a single line
+ - Indentation rules in Python and Python in general
+ - Prolog (programming language)
+ - Modern weapons.
+ - The idea of "It's Microsoft so it's bad"
+ - Followers (in Skyrim at least)
+ - Horses
+ - Khajits
+ - Vilja's (a follower in Skyrim) name
+ - Font ligatures
+ - CMake
+ - All Asian languages
+ - The word "posixy"
+ - When he is restricted to C++11
+ - When class data members declared at the bottom of the class definition.
+ - Game specific notifications on Nexus
+ - Mint
+ - Vape
+ - Lack of third person camera in games
+ - Daily/monthly/yearly/whatever subscription services
+ - Starwars (the movie)
+ - The fact that C# doesn't have RAII
+ 
