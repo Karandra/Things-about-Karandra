@@ -37,7 +37,6 @@ Things Kerber Hates:
  - Short beds.
  - Coding interviews.
  - Enter button that looks like Backspace key (not L-shaped).
- - When a movie filmed in 16:9 frame aspect ratio has black bars.
  - Kids.
  - DavidJCobb's code style and mod packages :)
  - Asian writing systems.
