@@ -88,7 +88,6 @@ Things Kerber Hates:
  - Web API.
  - Mobile network.
  - Compression libraries.
- - Himself.
  - Rewriting DataView widget.
  - WebSockets.
  - 8 hours work day.
