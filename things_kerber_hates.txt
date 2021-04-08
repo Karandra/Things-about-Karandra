@@ -1,145 +1,145 @@
 Things Kerber Hates:
- - Math
- - Mushrooms
- - Us all
- - Everyone who uses MFC/AFX/ATL and related shit
- - Things
- - Many things
- - Reddit's UI (both old and new)
- - C# Regions
- - PowerShell
- - Command Line Interfaces
- - Steam
- - Commas as decimal separators
- - Snow
- - Russians (they inherently hate each other)
- - Boris
- - WinSAT
- - The day when he'll need to have separate install of Win10 to play games
- - Acronyms
- - Buttons on underwear
- - The very end of Potema's quest in Skyrim.
- - Previous job.
- - Minesweeper when in the end it turns into guess game when you have no other options but blindly pick something.
- - When discord scrolls and it selects the wrong post when the menu is already displayed.
- - Cold.
- - Depth of field.
- - Tilted screenshots.
- - Dogs that don't get tired of barking (https://cdn.discordapp.com/attachments/342362730205806603/732200713911795752/IMG_20200627_115835.jpg).
- - Warpaint.
- - The word "nani".
- - Letterboxes.
- - The look of the "A" glyph in Tara Type font.
- - Snow and winter and everything that is related to winter.
- - Sheson's meme of taking one's firstborn.
- - Serana's raise undead spell.
- - Turn-based combat.
- - When RAM stick refuses to sit in its socket and he'll have to apply force to put it there.
- - Capes.
- - Horns, antlers and such.
- - Short beds.
- - Coding interviews.
- - Enter button that looks like Backspace key (not L-shaped).
- - When a movie filmed in 16:9 frame aspect ratio has black bars.
- - Kids.
- - DavidJCobb's code style and mod packages :)
- - Asian writing systems.
- - Mushroom part of Dunmer lore.
- - Disappearing scrollbars (Win10 modern scrollbars).
- - Everything round. Round corners, round buttons, round profile pictures.
- - m80 as "meight" and this kind of contractions.
- - When his GPU wasn't able to use ShadowPlay.
- - Visual Studio but only sometimes.
- - Desktop application that built on Chromium (excluding Google Chrome).
- - Qt.
- - That D&D uses imperial measurements system.
- - AM/PM time labeling system.
- - Pipelines in code (map -> filter -> reduce).
- - Single line lambdas.
- - Accessibility functions in Windows because they're enabled by default.
- - Many things for no reason at all.
- - Russian smiles. Yes, like this: ))))))))))
- - Also, initialisms.
- - Linux.
- - Falling. Here, in Dark Souls, everywhere.
- - When names of functions start with a small letter instead of a capital.
- - Address popup in Chrome.
- - That Mass Effect modding community is not consistent at all.
- - The requirement to say "Hi" at the start of every conversation.
- - The look of Qt's widgets.
- - The way to work and back home.
- - Nexus' file versioning system.
- - Typing on smartphone keyboard.
- - wandbox.org
- - When the wind is in his face half the way to work.
- - When the mouse pointer doesn't stop when he moves it to the edge of the monitor it's currently on.
- - Password popups (UAC).
- - "Fixed it" messages with no solution provided.
- - hCaptcha.
- - Aligned variables.
- - Tip window when the program starts.
- - When Wi-Fi router stops working after every ~50 days.
- - Patreon.
- - LaTeX. At least the name.
- - Some bits of Nexus' website design.
- - Dot-folders in user's directory.
- - Native header control.
- - The word "queue".
- - Using spaces in code.
- - VSCode.
- - Markdown syntax for tables.
- - Stupid code advises for C# in VisualStudio.
- - Naming convention in Linux.
- - Web API.
- - Mobile network.
- - Compression libraries.
- - Himself.
- - Rewriting DataView widget.
- - WebSockets.
- - 8 hours work day.
- - wxWidgets.
- - Sciter.
- - "... has been left as an exercise of the reader" phrase.
- - Stupid macros in "Windows.h".
- - Tasks where he needs to type missing word in sentences and dialogs.
- - The word "indices".
- - Sudoku after playing Mass Effect: Andromeda.
- - Alcohol.
- - Curly hair
- - Public transport
- - To think about how a fictional universe works
- - Green tea
- - Rain
- - Possibly 95% of all the porn on Earth
- - Delphi.
- - Breast physics
- - Dark Brotherhood
- - When multiple variables are declared in a single line
- - Indentation rules in Python and Python in general
- - Prolog (programming language)
- - Modern weapons.
- - The idea of "It's Microsoft so it's bad"
- - Followers (in Skyrim at least)
- - Horses
- - Khajits
- - Vilja's (a follower in Skyrim) name
- - Font ligatures
- - CMake
- - All Asian languages
- - The word "posixy"
- - When he is restricted to C++11
- - When class data members declared at the bottom of the class definition.
- - Game specific notifications on Nexus
- - Mint
- - Vape
- - Lack of third person camera in games
- - Daily/monthly/yearly/whatever subscription services
- - Starwars (the movie)
- - The fact that C# doesn't have RAII
- - Driving exams and everything related
- - Weird contractions in English (y'all'd've, so'n - more so than, and the like)
- - Penguins. Especially the one from Linux logo - Tux.
- - Smoking
- - Men formal suit
- - Ties
- 
+ * Math
+ * Mushrooms
+ * Us all
+ * Everyone who uses MFC/AFX/ATL and related shit
+ * Things
+ * Many things
+ * Reddit's UI (both old and new)
+ * C# Regions
+ * PowerShell
+ * Command Line Interfaces
+ * Steam
+ * Commas as decimal separators
+ * Snow
+ * Russians (they inherently hate each other)
+ * Boris
+ * WinSAT
+ * The day when he'll need to have separate install of Win10 to play games
+ * Acronyms
+ * Buttons on underwear
+ * The very end of Potema's quest in Skyrim.
+ * Previous job.
+ * Minesweeper when in the end it turns into guess game when you have no other options but blindly pick something.
+ * When discord scrolls and it selects the wrong post when the menu is already displayed.
+ * Cold.
+ * Depth of field.
+ * Tilted screenshots.
+ * Dogs that don't get tired of barking (https://cdn.discordapp.com/attachments/342362730205806603/732200713911795752/IMG_20200627_115835.jpg).
+ * Warpaint.
+ * The word "nani".
+ * Letterboxes.
+ * The look of the "A" glyph in Tara Type font.
+ * Snow and winter and everything that is related to winter.
+ * Sheson's meme of taking one's firstborn.
+ * Serana's raise undead spell.
+ * Turn-based combat.
+ * When RAM stick refuses to sit in its socket and he'll have to apply force to put it there.
+ * Capes.
+ * Horns, antlers and such.
+ * Short beds.
+ * Coding interviews.
+ * Enter button that looks like Backspace key (not L-shaped).
+ * When a movie filmed in 16:9 frame aspect ratio has black bars.
+ * Kids.
+ * DavidJCobb's code style and mod packages :)
+ * Asian writing systems.
+ * Mushroom part of Dunmer lore.
+ * Disappearing scrollbars (Win10 modern scrollbars).
+ * Everything round. Round corners, round buttons, round profile pictures.
+ * m80 as "meight" and this kind of contractions.
+ * When his GPU wasn't able to use ShadowPlay.
+ * Visual Studio but only sometimes.
+ * Desktop application that built on Chromium (excluding Google Chrome).
+ * Qt.
+ * That D&D uses imperial measurements system.
+ * AM/PM time labeling system.
+ * Pipelines in code (map *> filter *> reduce).
+ * Single line lambdas.
+ * Accessibility functions in Windows because they're enabled by default.
+ * Many things for no reason at all.
+ * Russian smiles. Yes, like this: ))))))))))
+ * Also, initialisms.
+ * Linux.
+ * Falling. Here, in Dark Souls, everywhere.
+ * When names of functions start with a small letter instead of a capital.
+ * Address popup in Chrome.
+ * That Mass Effect modding community is not consistent at all.
+ * The requirement to say "Hi" at the start of every conversation.
+ * The look of Qt's widgets.
+ * The way to work and back home.
+ * Nexus' file versioning system.
+ * Typing on smartphone keyboard.
+ * wandbox.org
+ * When the wind is in his face half the way to work.
+ * When the mouse pointer doesn't stop when he moves it to the edge of the monitor it's currently on.
+ * Password popups (UAC).
+ * "Fixed it" messages with no solution provided.
+ * hCaptcha.
+ * Aligned variables.
+ * Tip window when the program starts.
+ * When Wi-Fi router stops working after every ~50 days.
+ * Patreon.
+ * LaTeX. At least the name.
+ * Some bits of Nexus' website design.
+ * Dot-folders in user's directory.
+ * Native header control.
+ * The word "queue".
+ * Using spaces in code.
+ * VSCode.
+ * Markdown syntax for tables.
+ * Stupid code advises for C# in VisualStudio.
+ * Naming convention in Linux.
+ * Web API.
+ * Mobile network.
+ * Compression libraries.
+ * Himself.
+ * Rewriting DataView widget.
+ * WebSockets.
+ * 8 hours work day.
+ * wxWidgets.
+ * Sciter.
+ * "... has been left as an exercise of the reader" phrase.
+ * Stupid macros in "Windows.h".
+ * Tasks where he needs to type missing word in sentences and dialogs.
+ * The word "indices".
+ * Sudoku after playing Mass Effect: Andromeda.
+ * Alcohol.
+ * Curly hair
+ * Public transport
+ * To think about how a fictional universe works
+ * Green tea
+ * Rain
+ * Possibly 95% of all the porn on Earth
+ * Delphi.
+ * Breast physics
+ * Dark Brotherhood
+ * When multiple variables are declared in a single line
+ * Indentation rules in Python and Python in general
+ * Prolog (programming language)
+ * Modern weapons.
+ * The idea of "It's Microsoft so it's bad"
+ * Followers (in Skyrim at least)
+ * Horses
+ * Khajits
+ * Vilja's (a follower in Skyrim) name
+ * Font ligatures
+ * CMake
+ * All Asian languages
+ * The word "posixy"
+ * When he is restricted to C++11
+ * When class data members declared at the bottom of the class definition.
+ * Game specific notifications on Nexus
+ * Mint
+ * Vape
+ * Lack of third person camera in games
+ * Daily/monthly/yearly/whatever subscription services
+ * Starwars (the movie)
+ * The fact that C# doesn't have RAII
+ * Driving exams and everything related
+ * Weird contractions in English (y'all'd've, so'n * more so than, and the like)
+ * Penguins. Especially the one from Linux logo * Tux.
+ * Smoking
+ * Men formal suit
+ * Ties
+ * This pull request
