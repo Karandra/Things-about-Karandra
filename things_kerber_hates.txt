@@ -7,7 +7,6 @@ Things Kerber Hates:
  - Many things
  - Reddit's UI (both old and new)
  - C# Regions
- - PowerShell
  - Command Line Interfaces
  - Steam
  - Commas as decimal separators
