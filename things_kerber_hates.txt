@@ -62,7 +62,6 @@ Things Kerber Hates:
  - Address popup in Chrome.
  - That Mass Effect modding community is not consistent at all.
  - The requirement to say "Hi" at the start of every conversation.
- - The look of Qt's widgets.
  - The way to work and back home.
  - Nexus' file versioning system.
  - Typing on smartphone keyboard.
