@@ -25,7 +25,7 @@ Things Kerber Hates:
  - Cold.
  - Depth of field.
  - Tilted screenshots.
- - Dogs that don't get tired of barking (https://cdn.discordapp.com/attachments/342362730205806603/732200713911795752/IMG_20200627_115835.jpg).
+ - [Dogs that don't get tired of barking](https://cdn.discordapp.com/attachments/342362730205806603/732200713911795752/IMG_20200627_115835.jpg).
  - Warpaint.
  - The word "nani".
  - Letterboxes.
@@ -155,4 +155,5 @@ Things Kerber Hates:
  - Non-playable character management in games.
  - Elves with overly exaggerated ears and/or brows. Like in Warcraft.
  - Cabbage.
+ - Stickers on laptops.
  
