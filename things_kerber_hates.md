@@ -15,7 +15,7 @@ Things Kerber Hates:
  - Russians (they inherently hate each other)
  - Boris
  - WinSAT
- - The day when he'll need to have separate install of Win10 to play games
+ - The day when she'll need to have separate install of Win10 to play games
  - Acronyms
  - Buttons on underwear
  - The very end of Potema's quest in Skyrim.
@@ -34,7 +34,7 @@ Things Kerber Hates:
  - Sheson's meme of taking one's firstborn.
  - Serana's raise undead spell.
  - Turn-based combat.
- - When RAM stick refuses to sit in its socket and he'll have to apply force to put it there.
+ - When RAM stick refuses to sit in its socket and she'll have to apply force to put it there.
  - Capes.
  - Horns, antlers and such.
  - Short beds.
@@ -48,7 +48,7 @@ Things Kerber Hates:
  - Disappearing scrollbars (Win10 modern scrollbars).
  - Everything round. Round corners, round buttons, round profile pictures.
  - m80 as "meight" and this kind of contractions.
- - When his GPU wasn't able to use ShadowPlay.
+ - When her GPU wasn't able to use ShadowPlay.
  - Visual Studio but only sometimes.
  - Desktop application that built on Chromium (excluding Google Chrome).
  - Qt.
@@ -71,8 +71,8 @@ Things Kerber Hates:
  - Nexus' file versioning system.
  - Typing on smartphone keyboard.
  - wandbox.org
- - When the wind is in his face half the way to work.
- - When the mouse pointer doesn't stop when he moves it to the edge of the monitor it's currently on.
+ - When the wind is in her face half the way to work.
+ - When the mouse pointer doesn't stop when she moves it to the edge of the monitor it's currently on.
  - Password popups (UAC).
  - "Fixed it" messages with no solution provided.
  - hCaptcha.
@@ -93,7 +93,7 @@ Things Kerber Hates:
  - Web API.
  - Mobile network.
  - Compression libraries.
- - Himself.
+ - Herself.
  - Rewriting DataView widget.
  - WebSockets.
  - 8 hours work day.
@@ -101,7 +101,7 @@ Things Kerber Hates:
  - Sciter.
  - "... has been left as an exercise of the reader" phrase.
  - Stupid macros in "Windows.h".
- - Tasks where he needs to type missing word in sentences and dialogs.
+ - Tasks where she needs to type missing word in sentences and dialogs.
  - The word "indices".
  - Sudoku after playing Mass Effect: Andromeda.
  - Alcohol.
@@ -127,7 +127,7 @@ Things Kerber Hates:
  - CMake
  - All Asian languages
  - The word "posixy"
- - When he is restricted to C++11
+ - When she is restricted to C++11
  - When class data members declared at the bottom of the class definition.
  - Game specific notifications on Nexus
  - Mint

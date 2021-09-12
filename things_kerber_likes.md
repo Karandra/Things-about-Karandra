@@ -3,7 +3,7 @@ Things Kerber Likes:
  - Pineapples
  - Reddit's new UI
  - Lua
- - Shaving his arms
+ - Shaving her arms
  - GitHub Desktop
  - Horizon: Zero Dawn
  - XML (the way it is)
@@ -35,13 +35,13 @@ Things Kerber Likes:
  - Nightwish (the music band)
  - Some new Logitech mouses
  - Lupine flowers
- - His laptop's loud as a jet-engine fans
+ - Her laptop's loud as a jet-engine fans
  - Matrices
  - Lighting (but not rain)
  - David d's screenshots
  - Cakes
  - DavidJCobb
- - The fact that if his code compiles he can be 70% sure it's correct and works
+ - The fact that if her code compiles she can be 70% sure it's correct and works
  - Vigilant (Skyrim quest mod)
  - Likes C++ more than C# except when it comes to packaging stuff
  - Voiced protagonists in games.
@@ -55,7 +55,7 @@ Things Kerber Likes:
  - Medieval and SciFi weapons.
  - To have more than 50 FPS
  - Mossy rocks
- - His ZTE Axon 10 Pro
+ - Her ZTE Axon 10 Pro
  - Glowing swords
  - Heavy laptops
  - Discuss crappy topics
