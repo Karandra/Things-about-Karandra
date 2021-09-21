@@ -156,4 +156,5 @@ Things Kerber Hates:
  - Elves with overly exaggerated ears and/or brows. Like in Warcraft.
  - Cabbage.
  - Stickers on laptops.
+ - Decimals without zeros in the integral part (example: .5 for 0.5).
  
