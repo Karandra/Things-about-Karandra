@@ -134,7 +134,7 @@ Things Kerber Hates:
  - Vape
  - Lack of third person camera in games
  - Daily/monthly/yearly/whatever subscription services
- - Starwars (the movie)
+ - [d] Star Wars (the movie).
  - The fact that C# doesn't have RAII
  - Driving exams and everything related
  - Weird contractions in English (y'all'd've, so'n - more so than, and the like)
