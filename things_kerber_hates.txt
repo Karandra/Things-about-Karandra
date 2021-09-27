@@ -158,4 +158,5 @@ Things Kerber Hates:
  - Stickers on laptops.
  - Decimals without zeros in the integral part (example: .5 for 0.5).
  - Crimping Ethernet cables.
+ - Double negation operator in C and C++ (example: !!(bits & 0x7)).
  
