@@ -1,4 +1,4 @@
-Things Kerber Hates:
+Things Karandra Hates:
  - Math
  - Mushrooms
  - Us all
@@ -88,7 +88,7 @@ Things Kerber Hates:
  - Using spaces in code.
  - VSCode.
  - Markdown syntax for tables.
- - Stupid code advises for C# in VisualStudio.
+ - Stupid code advises for C# in Visual Studio.
  - Naming convention in Linux.
  - Web API.
  - Mobile network.
@@ -159,4 +159,20 @@ Things Kerber Hates:
  - Decimals without zeros in the integral part (example: .5 for 0.5).
  - Crimping Ethernet cables.
  - Double negation operator in C and C++ (example: !!(bits & 0x7)).
- 
+ - The 'virtual' specifier on overridden virtual functions (C++).
+ - Any description of anything in math.
+ - Mobile links.
+ - When the word 'shall' being used instead of 'should'.
+ - 1С.
+ - Cola Zero and Pepsi Zero.
+ - Dark theme in Visual Studio.
+ - Onions.
+ - Shoelaces.
+ - Pipboy in Fallout games.
+ - Calculus.
+ - Needles.
+ - Writing iterators (C++).
+ - Repetitive tasks.
+ - Cars.
+ - Telephone cables.
+ - Webcamera requirement for meetings.
