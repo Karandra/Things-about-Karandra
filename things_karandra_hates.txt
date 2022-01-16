@@ -176,3 +176,5 @@ Things Karandra Hates:
  - Cars.
  - Telephone cables.
  - Webcamera requirement for meetings.
+ - NVIDIA control panel.
+ 
