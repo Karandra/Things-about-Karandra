@@ -177,4 +177,5 @@ Things Karandra Hates:
  - Telephone cables.
  - Webcamera requirement for meetings.
  - NVIDIA control panel.
+ - Invisible trailing or leading whitespace.
  
