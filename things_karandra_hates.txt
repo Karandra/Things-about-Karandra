@@ -162,7 +162,7 @@ Things Karandra Hates:
  - The 'virtual' specifier on overridden virtual functions (C++).
  - Any description of anything in math.
  - Mobile links.
- - When the word 'shall' being used instead of 'should'.
+ - When the word 'shall' is used instead of 'should'.
  - 1С.
  - Cola Zero and Pepsi Zero.
  - Dark theme in Visual Studio.
